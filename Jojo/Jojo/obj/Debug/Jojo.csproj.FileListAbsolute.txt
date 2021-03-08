@@ -1,0 +1,6 @@
+C:\Users\vshab\RiderProjects\2cem\Jojo\Jojo\obj\Debug\Jojo.csprojAssemblyReference.cache
+C:\Users\vshab\RiderProjects\2cem\Jojo\Jojo\obj\Debug\Jojo.csproj.CoreCompileInputs.cache
+C:\Users\vshab\RiderProjects\2cem\Jojo\Jojo\bin\Debug\Jojo.exe
+C:\Users\vshab\RiderProjects\2cem\Jojo\Jojo\bin\Debug\Jojo.pdb
+C:\Users\vshab\RiderProjects\2cem\Jojo\Jojo\obj\Debug\Jojo.exe
+C:\Users\vshab\RiderProjects\2cem\Jojo\Jojo\obj\Debug\Jojo.pdb
